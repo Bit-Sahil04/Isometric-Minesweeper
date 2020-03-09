@@ -24,4 +24,3 @@ Sometimes Middle Mouse Button does not function as intended, and the highlighted
 ![Debug Enabled](https://raw.githubusercontent.com/Bit-Sahil04/Isometric-Minesweeper-/master/screenshots/screenshot2.png)
 
 
-# Thank you
