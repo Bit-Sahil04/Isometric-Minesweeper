@@ -1,5 +1,5 @@
 # Isometric-Minesweeper
-A twist on the classic windows game, made in Pygame.
+A twist on a classic game, made in Pygame.
 
 ## Launching
 You can run the game directly from start.py or from the .exe in /standalone folder.
