@@ -19,9 +19,9 @@ Users can also adjust the difficulty by changing the number of bombs in the opti
 Sometimes Middle Mouse Button does not function as intended, and the highlighted area does not follow the mouse.
 
 # Screenshots
-!(https://raw.githubusercontent.com/Bit-Sahil04/Isometric-Minesweeper-/master/screenshots/screenshot3.png)
-!(https://raw.githubusercontent.com/Bit-Sahil04/Isometric-Minesweeper-/master/screenshots/screenshot1.png)
-!(https://raw.githubusercontent.com/Bit-Sahil04/Isometric-Minesweeper-/master/screenshots/screenshot2.png)
+![Main Game](https://raw.githubusercontent.com/Bit-Sahil04/Isometric-Minesweeper-/master/screenshots/screenshot3.png)
+![Main Game](https://raw.githubusercontent.com/Bit-Sahil04/Isometric-Minesweeper-/master/screenshots/screenshot1.png)
+![Debug Enabled](https://raw.githubusercontent.com/Bit-Sahil04/Isometric-Minesweeper-/master/screenshots/screenshot2.png)
 
 
 # Thank you for playing
