@@ -116,7 +116,7 @@ def text_to_screen(screen, text, x, y, size=10, color = None, font_type=None):
     tRect = screen.blit(text, (x-(text_width/2) , y-(text_height/2)))
     return tRect
 
-#FIXME: poor, buggy and hack-y implementation
+#FIXME: buggy implementation
 def findRange(screen,grid,blockX,blockY,limX,limY,tileSpriteList):
     #highlights a 3x3 Grid, could use suggestions for a better algorithm
     global GameOver
