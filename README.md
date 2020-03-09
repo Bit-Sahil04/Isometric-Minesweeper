@@ -2,7 +2,7 @@
 A twist on the classic windows game, made in Pygame.
 
 ## Launching
-You can run the game directly from run.py or from the .exe in /standalone folder.
+You can run the game directly from start.py or from the .exe in /standalone folder.
 
 ## Requirements
 This project was made in python using pygame library, you must have python 2.7 and pygame 1.9.3 or higher installed to play this game.
