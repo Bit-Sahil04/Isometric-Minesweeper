@@ -2,10 +2,10 @@
 A twist on a classic game, made in Pygame.
 
 ## Launching
-You can run the game directly from start.py or from the .exe in /standalone folder.
+You can run the game directly from start.py or from the .exe in the standalone folder.
 
 ## Requirements
-This project was made in python using pygame library, you must have python 2.7 and pygame 1.9.3 or higher installed to play this game.
+This project was made in python using pygame library, you must have python 2.7 and pygame 1.9.3 or higher installed to compile this game.
 
 ## Developer's Comments
 This is my first 'serious' project so the code architecture is a bit of a mess. Any criticism or feedback is encouraged.
