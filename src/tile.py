@@ -10,14 +10,15 @@ class tile:
         'SAFE',   : tile is revealed and is safe (val > -1)
         'UNKNOWN' : tile is not revealed nor marked
     '''
-    def __init__(self,isoX,isoY,tileWidth,tileHeight,color= (255,255,255)):
+
+    def __init__(self, isoX, isoY, tileWidth, tileHeight, color=(255, 255, 255)):
         self.isoX = isoX
         self.isoY = isoY
         self.tileWidth = tileWidth
         self.tileHeight = tileHeight
         self.enQueued = False
         self.color = color
-        self.defaultColor = (255,255,255)
+        self.defaultColor = (255, 255, 255)
         self.poly = (
             (isoX, isoY),  # UP
             (isoX - tileWidth / 2, isoY + tileHeight / 2),  # LEFT
@@ -26,11 +27,10 @@ class tile:
         )
         self.spriteX = isoX - (tileWidth // 2)
         self.spriteY = isoY
-        self.spritePOS = (self.spriteX,self.spriteY)
+        self.spritePOS = (self.spriteX, self.spriteY)
         self.centerX = isoX
         self.centerY = isoY + (tileHeight / 2)
         self.isClicked = False
         self.state = 'UNKNOWN'
         self.isBomb = False
         self.value = 0
-
