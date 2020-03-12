@@ -250,7 +250,6 @@ def drawTimer(screen, HUD, tick):
 
 def drawDebug(screen, res, tileSpriteList):
     if DEBUGGING_MODE:
-        l = len(tileSpriteList)
         for i, j in enumerate(tileSpriteList):
             screen.blit(tileSpriteList[j], (i * 40, res[1] // 7.5))
         text_to_screen(screen, "Debug Mode", 50, res[1] // 5, color=cc.WHITE, size=15)
