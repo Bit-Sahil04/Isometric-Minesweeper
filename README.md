@@ -6,7 +6,7 @@ Contribution, Criticism and Feedback is appreciated.
 You can run the game directly from start.py or from the .exe in the standalone folder.
 
 ## Requirements
-This project was made in python using pygame library, you must have python 3.7 and pygame 1.9.3 or higher installed to compile this game.
+This project was made in python using pygame library, you must have python 3.7 and pygame 1.9.3 or higher installed to compile this game
 
 ## Some special features
 This game allows you to turn on debug mode, shown in one of the screenshots, which highlights tiles that are bombs as red, and tiles that are mine-free-zones as cyan.
