@@ -14,7 +14,7 @@ This game allows you to turn on debug mode, shown in one of the screenshots, whi
 Users can also adjust the difficulty by changing the number of bombs in the options menu.
 
 ## Known Bugs
-Sometimes Middle Mouse Button (Chording) does not function as intended, and the highlighted area does not follow the mouse.
+Sometimes Middle Mouse  Button (Chording) does not function as intended, and the highlighted area does not follow the mouse.
 
 # Screenshots
 ![Main Game](https://raw.githubusercontent.com/Bit-Sahil04/Isometric-Minesweeper-/master/screenshots/screenshot3.png)
